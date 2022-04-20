@@ -4,7 +4,14 @@ function incioCrud(){
   montarSelect()
   document.querySelector('button').addEventListener('click',pesquisaSelect)
 }
+asdasd
 
+asdasdasd
+addEventListenerasd
+asdasdasdasd
+asd
+asdasdasdasdasd
+asdasdasdasdasdads
 //READ
 function montarTabela(arrDadosPista) {
   let accDadosTabela = ''
